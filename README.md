@@ -51,3 +51,4 @@ pnpm run build
 -  [Contact Us](https://jstemplate.net/contact-us)
 -  [Documentation](https://docs.jstemplate.net)
 -  [All Products](https://jstemplate.net)
+# quincy-labs-blog
